@@ -1,4 +1,4 @@
-# tTherapist Bot Code Document
+# Therapist Bot Code Document
 
 An online therapist bot I created as part of a basic coding course, along with documentation.
 
